@@ -6,6 +6,8 @@
       "zip_code": "T150-0033",
       "address": "東京都渋谷区猿楽町16-15",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg",
+      "longitude": 16.074425,
+      "latitude": 108.218102,
       "books": [
         {
           "id": 1,
@@ -109,6 +111,8 @@
       "zip_code": "T104-0061",
       "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg",
+      "longitude": 16.074311,
+      "latitude": 108.217683,
       "books": [
         {
           "id": 1,
@@ -212,6 +216,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074311,
+      "latitude": 108.217683,
       "books": [
         {
           "id": 1,
@@ -418,6 +424,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074682,
+      "latitude": 108.219061,
       "books": [
         {
           "id": 1,
@@ -521,6 +529,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074692,
+      "latitude": 108.219071,
       "books": [
         {
           "id": 1,
@@ -624,6 +634,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074702,
+      "latitude": 108.219081,
       "books": [
         {
           "id": 1,
@@ -727,6 +739,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074612,
+      "latitude": 108.219021,
       "books": [
         {
           "id": 1,
@@ -830,6 +844,8 @@
       "zip_code": "T150-0033",
       "address": "羽田空港",
       "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324",
+      "longitude": 16.074182,
+      "latitude": 108.219761,
       "books": [
         {
           "id": 1,
