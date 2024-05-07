@@ -1,10 +1,10 @@
 {
   "store": [
     {
-      "id": "1",
+      "id": 1,
       "name": "81 Quang Trung, Da Nang, Viet Nam",
       "address": "81 Quang Trung, Da Nang, Viet Nam",
-      "zipcod"e: "〒150-0033",
+      "zipcode": "〒150-0033",
       "distance": 0.5,
       "poster": "https://media.timeout.com/images/105772322/750/422/image.webp",
       "convenient": ["drink", "kid", "feed", "dating", "cut"],
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Danang Meseum",
       "address": "Danang Meseum",
       "zipcode": "〒150-0033",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
   "name": "Tran Phu High School",
   "address": "Tran Phu High School",
   "zipcode": "〒150-0033",
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
   "name": "Phan Chau Trinh High School",
   "address": "Phan Chau Trinh High School",
   "zipcode": "〒150-0033",
@@ -429,7 +429,7 @@
       ]
     },
     {
-     "id": "5",
+     "id": 5,
   "name": "Danang city Police Department",
   "address": "Danang city Police Department",
   "zipcode": "〒150-0033",
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": 6,
   "name": "Ly Tu Trong Primary School",
   "address": "Ly Tu Trong Primary School",
   "zipcode": "〒150-0033",
@@ -643,7 +643,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": 7,
   "name": "Nguyen Hue Secondary School",
   "address": "Nguyen Hue Secondary School",
   "zipcode": "〒150-0033",
@@ -750,7 +750,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": 8,
   "name": "Da Nang Hospital C",
   "address": "Da Nang Hospital C",
   "zipcode": "〒150-0033",
@@ -857,7 +857,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": 9,
   "name": "Danang Hospital",
   "address": "Danang Hospital",
   "zipcode": "〒150-0033",
@@ -962,7 +962,7 @@
           ]
         },
         {
-      "id": "10",
+      "id": 10,
   "name": "Bay Capital Da Nang Hotel",
   "address": "Bay Capital Da Nang Hotel",
   "zipcode": "〒150-0033",
